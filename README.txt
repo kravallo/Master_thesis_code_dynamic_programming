@@ -1,6 +1,6 @@
 README
 
-This repo documents the main code used for the master's thesis at the University of Copenhagen supervised by Thomas Jørgensen. Code is inspired by lecture material from the course "Dynamic Programming - Theory, Computation, and Empirical Applications" (see: https://kurser.ku.dk/course/a%C3%98kk08207u/) and https://github.com/NumEconCopenhagen/ConsumptionSavingNotebooks.
+This repo documents the main code used for the master's thesis at the University of Copenhagen supervised by Thomas Jørgensen. Code is inspired by and based on lecture material from the course "Dynamic Programming - Theory, Computation, and Empirical Applications" (see: https://kurser.ku.dk/course/a%C3%98kk08207u/) and https://github.com/NumEconCopenhagen/ConsumptionSavingNotebooks.
 
 Main code file: Final_report_thesis.ipynb
 
